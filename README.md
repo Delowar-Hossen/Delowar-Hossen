@@ -1,5 +1,5 @@
 ## Hi, I'm MD Delowar Hossen 👋
-[<img src='https://github.com/Delowar-Hossen/Delowar-Hossen/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/Delowar-Hossen/)
+[<img src='https://github.com/Delowar-Hossen/Delowar-Hossen/blob/main/img/bg.jpg?raw=true' alt='Delowar Hossen'>](https://github.com/Delowar-Hossen/)
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
